@@ -1,0 +1,13 @@
+.resume {
+    width: auto;
+    /* max-width: 1200px;  */
+    margin: 0 auto;
+    background-color:red; 
+    border:30px solid blue; 
+    color: white;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
